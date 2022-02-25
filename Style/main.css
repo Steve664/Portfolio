@@ -55,25 +55,25 @@ body {
 	height: 200px;
 }
 input[type='text'], input[type='email'] {
-	width: 100%;
+	width: 98%;
 	margin-top: 20px;
 	padding: 8px 4px;
 	font-family: inherit;
 }
 input[type='submit'] {
 	width: 100%;
-	max-width: 150px;
 	padding: 8px;
 	margin-top: 20px;
 	background-color: #d40a0a;
 	color: white;
 	border-radius: 5px;
-	border: 0;
+	border: none;
+   
+
 }
 input[type='submit']:hover {
 	background-color: green;
 	cursor: pointer;
-    width: 100%;
    
 }
 
