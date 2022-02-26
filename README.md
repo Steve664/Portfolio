@@ -1,34 +1,53 @@
 # Portfolio
  ##### By Steve Njenga Kariuki
 
+<div id="top"></div>
+
  ## Table of Content
- + [Description](#description)
- + [Installation Requirement](#Installation)
- + [Requirement](#Requirement)
- + [Technology Used](#technology-used)
- + [Reference](#reference)
- + [Authors Info](#author-Info)
+
+<ol>
+  <li><a href="#description">Description</a></li>
+  <li><a href="#installation">Installation</a></li>
+  <li><a href="#requirements">Requirements</a></li>
+  <li><a href="#technology-used">Technology Used</a></li>
+  <li><a href="#license">License</a></li>
+  <li><a href="#author-info">Author Info</a></li>
+
+ </ol>
  
  ## Description
  <p>This is  a website portfolio written using HTML and CSS. </p>
  
- ## Installation
- ### Requirements
-<p>The requirements to run this project is a browser and an internet connection as some icons and images need to be retrieved</p>
- ### Installation Process
- [Go Back to the top](#PortFolio)
  
+ ## Installation
+ 
+ <p> First download the folder. Unzip the folder and open Index.html in any browser. Ensure you have internet access as some resources need to be retrieved online.</p>
+ 
+ ## Requirements
+<p>The requirements to run this project is a browser and an internet connection as some icons and images need to be retrieved</p>
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
  ## Technology Used
  * HTML5 was used to create the structure of the webpage.
  * CSS was used to style the webpage.
  * Javascript was used to give buttons functionality.
 
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 ## Reference
  * Font Awesome
  * Malven's Flexbox Cheatsheet
 
- [Go Back to the top](#PortFolio)
- ## License 
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+## Author Info
+<ul>
+ <li><a href="https://github.com/Steve664?tab=repositories">Github</a></li>
+</ul>
+ <p align="right">(<a href="#top">back to top</a>)</p>
+
+## License 
  MIT License
 
 Copyright (c) 2022 Steve Njenga Kariuki
